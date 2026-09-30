@@ -1,0 +1,522 @@
+[
+  {
+    "materia": "ATUALIDADES DO MERCADO FINANCEIRO",
+    "aulas": [
+      {
+        "id": "f872dd5317d745ee813d010b59d2a9d6",
+        "titulo": "Arranjos De Pagamentos",
+        "arquivo": "2025-10-20-15-34-03-121371840-arranjos-de-pagamentos-e1760985243.pdf"
+      },
+      {
+        "id": "477d6695375a477a9403ef220acb5e11",
+        "titulo": "Correspondentes Bancarios",
+        "arquivo": "2026-01-14-15-02-48-121371075-correspondentes-bancarios-e1768413768.pdf"
+      },
+      {
+        "id": "3bc6a7d7ed3d41e9a8980ad8346a5b9b",
+        "titulo": "Novos Modelos De Negocios",
+        "arquivo": "2025-11-12-08-26-02-121369545-novos-modelos-de-negocios-e1762946762.pdf"
+      },
+      {
+        "id": "60bbe030a1f845ebb0ac1639296bd980",
+        "titulo": "O Dinheiro Na Era Digital",
+        "arquivo": "2025-11-12-08-28-50-121370310-o-dinheiro-na-era-digital-e1762946930.pdf"
+      },
+      {
+        "id": "0b0f8f3b558a42628705764e1cbea978",
+        "titulo": "Os Bancos Na Era Digital",
+        "arquivo": "2026-05-20-16-56-49-121368780-os-bancos-na-era-digital-e1779307009.pdf"
+      },
+      {
+        "id": "4798e79c40b345b98e135ae9bdc4ccb6",
+        "titulo": "Pix",
+        "arquivo": "2026-01-27-07-31-26-121372605-pix-e1769509886.pdf"
+      }
+    ]
+  },
+  {
+    "materia": "CONHECIMENTOS BANCÁRIOS",
+    "aulas": [
+      {
+        "id": "be4af4e1bbbf412aa2c5ad7b8d9859c2",
+        "titulo": "3f9e12bc415a4eab9d57e12520111be7",
+        "arquivo": "2026-03-06-10-15-53-3f9e12bc415a4eab9d57e12520111be7.pdf"
+      },
+      {
+        "id": "fa26b23603364fd69bed5a9df238ba97",
+        "titulo": "Asg",
+        "arquivo": "2025-11-18-19-08-26-121402440-asg-e1763503706.pdf"
+      },
+      {
+        "id": "a450829053d343bda18c723ee9bebb65",
+        "titulo": "Autorregulacao Bancaria",
+        "arquivo": "2025-11-24-12-22-30-121380255-autorregulacao-bancaria-e1763997749.pdf"
+      },
+      {
+        "id": "a79d5389046045b1a872b7c5e04cc487",
+        "titulo": "Carta Circular N 4 001 2020",
+        "arquivo": "2024-08-21-17-42-30-100673235-carta-circular-n-4-001-2020-e1724272950.pdf"
+      },
+      {
+        "id": "e1d6ccf2bca04def94a204c96ba75142",
+        "titulo": "Cf9182c2ee304682998028db81e356bd",
+        "arquivo": "2026-03-09-09-52-03-cf9182c2ee304682998028db81e356bd.pdf"
+      },
+      {
+        "id": "1255db1507a64435af59271578fed32a",
+        "titulo": "Circular N 3 978 2020",
+        "arquivo": "2024-08-26-10-59-35-100672470-circular-n-3-978-2020-e1724680775.pdf"
+      },
+      {
+        "id": "39f89f8117bf4f2295dcd61c373c4eb0",
+        "titulo": "Crime De Lavagem De Dinheiro",
+        "arquivo": "2026-05-04-17-46-30-121379490-crime-de-lavagem-de-dinheiro-e1777927590.pdf"
+      },
+      {
+        "id": "682356c0fd5349cea6d9e477f2cc4b2f",
+        "titulo": "Decreto N 11 129 2022 Regulamentacao Da Lei Anticorrupcao",
+        "arquivo": "2024-02-28-16-59-53-95096385-decreto-n-11-129-2022-regulamentacao-da-lei-anticorrupcao-e1709150393.pdf"
+      },
+      {
+        "id": "f4e234cb10f54c3c9bb50d9b92d31bef",
+        "titulo": "Etica Aplicada E Codigo De Etica Do Banco Do Brasil",
+        "arquivo": "2026-01-07-13-25-50-121400910-etica-aplicada-e-codigo-de-etica-do-banco-do-brasil-e1767803150.pdf"
+      },
+      {
+        "id": "8ddae0637fa54be6a6e19214920a4049",
+        "titulo": "Garantias Do Sistema Financeiro Nacional Parte I",
+        "arquivo": "2025-10-20-15-11-49-121377960-garantias-do-sistema-financeiro-nacional-parte-i-e1760983909.pdf"
+      },
+      {
+        "id": "a17d01165c224ece963086ef7397e9f1",
+        "titulo": "Garantias Do Sistema Financeiro Nacional Parte Ii",
+        "arquivo": "2025-11-05-09-58-12-121378725-garantias-do-sistema-financeiro-nacional-parte-ii-e1762347492.pdf"
+      },
+      {
+        "id": "e3b2e5d06ad940ff902a22caea9320cb",
+        "titulo": "Lei N 12 846 2013 Lei Anticorrupcao",
+        "arquivo": "2026-03-17-10-59-14-108531315-lei-n-12-846-2013-lei-anticorrupcao-e1773755954.pdf"
+      },
+      {
+        "id": "530ea0a48524446cb347a83718a7e2eb",
+        "titulo": "Lei N 13 709 2018 Lei Geral De Protecao De Dados Parte I",
+        "arquivo": "2026-08-26-17-14-52-117546840-lei-n-13-709-2018-lei-geral-de-protecao-de-dados-parte-i-e1787775292.pdf"
+      },
+      {
+        "id": "2b8b8698c11242b69e10879a2c67b8b9",
+        "titulo": "Lei N 13 709 2018 Lei Geral De Protecao De Dados Parte Ii",
+        "arquivo": "2026-08-27-11-38-24-117547605-lei-n-13-709-2018-lei-geral-de-protecao-de-dados-parte-ii-e1787841503.pdf"
+      },
+      {
+        "id": "6899d07ea97346e28121eef49f09aee6",
+        "titulo": "Lei N 13 709 2018 Lei Geral De Protecao De Dados Parte Iii",
+        "arquivo": "2026-08-27-10-21-56-117548370-lei-n-13-709-2018-lei-geral-de-protecao-de-dados-parte-iii-e1787836916.pdf"
+      },
+      {
+        "id": "bb430310345e4d788a150dc5ae130e19",
+        "titulo": "Moeda E Politica Monetaria",
+        "arquivo": "2025-12-23-15-52-29-121374135-moeda-e-politica-monetaria-e1766515949.pdf"
+      },
+      {
+        "id": "e239219c52bf4e8cac8fdd25fe02fb54",
+        "titulo": "Nocoes De Mercado De Cambio",
+        "arquivo": "2025-12-23-16-21-10-121377195-nocoes-de-mercado-de-cambio-e1766517669.pdf"
+      },
+      {
+        "id": "5966fbde602f4833bde82238359e7bd4",
+        "titulo": "Nocoes De Mercado De Capitais",
+        "arquivo": "2026-01-15-07-50-03-121376430-nocoes-de-mercado-de-capitais-e1768474203.pdf"
+      },
+      {
+        "id": "893732aac0dc43648e23c00fe1f5abf7",
+        "titulo": "Normativos Sarb Parte I",
+        "arquivo": "2025-11-17-12-44-34-121384080-normativos-sarb-parte-i-e1763394274.pdf"
+      },
+      {
+        "id": "afcdecb289d447f9aad059c20ed8c155",
+        "titulo": "Normativos Sarb Parte Ii",
+        "arquivo": "2025-12-30-14-13-31-121384845-normativos-sarb-parte-ii-e1767114811.pdf"
+      },
+      {
+        "id": "de9f5c18b39f47a18b5582a12661b8f1",
+        "titulo": "Normativos Sarb Parte Ii Lavagem De Dinheiro",
+        "arquivo": "2025-11-25-15-47-48-121390965-normativos-sarb-parte-ii-lavagem-de-dinheiro-e1764096468.pdf"
+      },
+      {
+        "id": "7591ee8b0df84b719e4bc0b383086052",
+        "titulo": "Normativos Sarb Parte Iii",
+        "arquivo": "2025-11-25-18-57-38-121385610-normativos-sarb-parte-iii-e1764107858.pdf"
+      },
+      {
+        "id": "37fe5f136ff346ca84aa1c2fca4a5880",
+        "titulo": "Normativos Sarb Parte Iv",
+        "arquivo": "2025-12-17-11-10-52-121386375-normativos-sarb-parte-iv-e1765980652.pdf"
+      },
+      {
+        "id": "36d87ef0e3f34378b33167c4174beb7f",
+        "titulo": "Normativos Sarb Parte V",
+        "arquivo": "2025-11-25-12-03-24-121387140-normativos-sarb-parte-v-e1764083004.pdf"
+      },
+      {
+        "id": "c1c2c2657e1f4b9d850d830eb1d1703f",
+        "titulo": "Normativos Sarb Parte Vi",
+        "arquivo": "2025-11-25-11-52-04-121387905-normativos-sarb-parte-vi-e1764082324.pdf"
+      },
+      {
+        "id": "ad73cee3ea49442c9e3967cd58827218",
+        "titulo": "Normativos Sarb Parte Vii",
+        "arquivo": "2025-11-25-14-31-26-121389435-normativos-sarb-parte-vii-e1764091886.pdf"
+      },
+      {
+        "id": "8fa4e2b8a1ac416ba6b6956a4eaa96c2",
+        "titulo": "Orcamento Publico Titulos Do Tesouro Nacional E Divida Publica",
+        "arquivo": "2026-02-23-15-13-35-121374900-orcamento-publico-titulos-do-tesouro-nacional-e-divida-publica-e1771870415.pdf"
+      },
+      {
+        "id": "b533aa48497d4430914097cb595ff1ac",
+        "titulo": "Politica De Responsabilidade Socioambiental Do Banco Do Brasil",
+        "arquivo": "2025-10-30-11-52-45-121401675-politica-de-responsabilidade-socioambiental-do-banco-do-brasil-e1761835965.pdf"
+      },
+      {
+        "id": "069609b7c64246f29ac7cb6f16bc8404",
+        "titulo": "Produtos Bancarios",
+        "arquivo": "2026-01-07-13-27-13-121375665-produtos-bancarios-e1767803233.pdf"
+      },
+      {
+        "id": "db67e6356b954472b80a3c0ecb625433",
+        "titulo": "Seguranca Cibernetica",
+        "arquivo": "2025-11-04-09-32-29-121400145-seguranca-cibernetica-e1762259549.pdf"
+      },
+      {
+        "id": "b92d072c957b4767abe391662e3ea6b3",
+        "titulo": "Sigilo Bancario",
+        "arquivo": "2026-05-05-11-39-07-121399380-sigilo-bancario-e1777991947.pdf"
+      },
+      {
+        "id": "b63598cf6927440fbede3807285c110b",
+        "titulo": "Sistema Financeiro Nacional",
+        "arquivo": "2025-10-30-14-05-43-121373370-sistema-financeiro-nacional-e1761843943.pdf"
+      }
+    ]
+  },
+  {
+    "materia": "CONHECIMENTOS DE INFORMÁTICA",
+    "aulas": [
+      {
+        "id": "fefcd3a8c8494590a6ffcf336fd7ee16",
+        "titulo": "Clientes De E Mail",
+        "arquivo": "2025-06-02-09-50-26-71019540-clientes-de-e-mail-e1748868626.pdf"
+      },
+      {
+        "id": "6b8418fc5c99460192323d8386200f94",
+        "titulo": "Conceitos Basicos De Informatica",
+        "arquivo": "2025-03-17-15-04-08-71016480-conceitos-basicos-de-informatica-e1742234647.pdf"
+      },
+      {
+        "id": "6314f7b934524a8b92e79216fae24860",
+        "titulo": "Conceitos De Educacao A Distancia",
+        "arquivo": "2023-03-20-17-30-15-82952775-conceitos-de-educacao-a-distancia-e1679344215.pdf"
+      },
+      {
+        "id": "c7e98dfbe4674f2998eb79b175f8421d",
+        "titulo": "Conceitos De Tecnologias E Ferramentas Multimidia De Reproducao De Audio E Video",
+        "arquivo": "2026-01-19-18-56-20-82953540-conceitos-de-tecnologias-e-ferramentas-multimidia-de-reproducao-de-audio-e-video-e1768859780.pdf"
+      },
+      {
+        "id": "63177907a8f1481297ea76edfb33b71b",
+        "titulo": "Excel 365",
+        "arquivo": "2025-11-26-15-50-07-71024895-excel-365-e1764183006.pdf"
+      },
+      {
+        "id": "e031b3d728ed4c2ebde3248ce08ef550",
+        "titulo": "Ferramentas De Produtividade E Trabalho A Distancia",
+        "arquivo": "2026-07-13-17-20-39-82954305-ferramentas-de-produtividade-e-trabalho-a-distancia-e1783974039.pdf"
+      },
+      {
+        "id": "5a2f44b7af35447eb49e1f9059ccfd0d",
+        "titulo": "Fundamentos Sobre Analise De Dados",
+        "arquivo": "2023-03-22-15-27-29-82952010-fundamentos-sobre-analise-de-dados-e1679509649.pdf"
+      },
+      {
+        "id": "1847415a260440dbb475f1421c91ec31",
+        "titulo": "Linux",
+        "arquivo": "2025-11-26-09-36-12-71021070-linux-e1764160572.pdf"
+      },
+      {
+        "id": "71f1fb60263242698a03d0e07b6b3e70",
+        "titulo": "Mozilla Firefox",
+        "arquivo": "2025-01-16-16-03-46-77322375-mozilla-firefox-e1737054226.pdf"
+      },
+      {
+        "id": "2b5eb018099445fdad1a45511d239702",
+        "titulo": "Ms Edge",
+        "arquivo": "2025-03-18-10-32-18-77324670-ms-edge-e1742304738.pdf"
+      },
+      {
+        "id": "30675af95efa4012aabcef16b3090a75",
+        "titulo": "Powerpoint 365",
+        "arquivo": "2025-01-16-15-47-43-71025660-powerpoint-365-e1737053262.pdf"
+      },
+      {
+        "id": "814aa57053f84a968c009312c3abd810",
+        "titulo": "Principios Basicos De Seguranca Da Informacao",
+        "arquivo": "2026-04-07-12-38-53-87970410-principios-basicos-de-seguranca-da-informacao-e1775576333.pdf"
+      },
+      {
+        "id": "fc4e2685de4f4e21956a71110ec8e3db",
+        "titulo": "Procedimentos De Backup",
+        "arquivo": "2026-05-18-16-53-13-85668525-procedimentos-de-backup-e1779133993.pdf"
+      },
+      {
+        "id": "e80fb430e6bc49468de6f5b99d381f2e",
+        "titulo": "Redes De Computadores Computacao Nas Nuvens Servicos E Protocolos Da Internet",
+        "arquivo": "2026-07-09-11-28-13-71017245-redes-de-computadores-computacao-nas-nuvens-servicos-e-protocolos-da-internet-e1783607293.pdf"
+      },
+      {
+        "id": "0bb1d26982ef4af6a63a56748ceff18f",
+        "titulo": "Seguranca Da Informacao Ameacas",
+        "arquivo": "2026-04-22-09-27-17-88580115-seguranca-da-informacao-ameacas-e1776860837.pdf"
+      },
+      {
+        "id": "1dd4a66962dc4ac7b316daf559fecb8f",
+        "titulo": "Seguranca Da Informacao Protecao",
+        "arquivo": "2026-05-08-15-22-20-88580880-seguranca-da-informacao-protecao-e1778264540.pdf"
+      },
+      {
+        "id": "b1e4cc9f1d3f4045830b578cd380632d",
+        "titulo": "Tecnologias Da Informacao E Comunicacao Na Educacao",
+        "arquivo": "2026-02-26-09-34-01-112524615-tecnologias-da-informacao-e-comunicacao-na-educacao-e1772109241.pdf"
+      },
+      {
+        "id": "f7ff710693ea4f2aaf62bc071a0da934",
+        "titulo": "Visao Geral Sobre Sistemas De Suporte A Decisao E Inteligencia De Negocios",
+        "arquivo": "2023-04-03-15-44-27-82951245-visao-geral-sobre-sistemas-de-suporte-a-decisao-e-inteligencia-de-negocios-e1680547467.pdf"
+      },
+      {
+        "id": "d633b0e0c011467281159676960e205d",
+        "titulo": "Windows 11",
+        "arquivo": "2026-03-13-10-16-17-85835295-windows-11-e1773407776.pdf"
+      },
+      {
+        "id": "593b2eafb61b4be3876af2617c9e2db2",
+        "titulo": "Word 365",
+        "arquivo": "2024-12-11-10-32-13-71024130-word-365-e1733923933.pdf"
+      }
+    ]
+  },
+  {
+    "materia": "DISCURSIVA",
+    "aulas": [
+      {
+        "id": "21c674f740834742a14e8ce4523c2c70",
+        "titulo": "Redacao Discursiva Parte I",
+        "arquivo": "2025-09-03-10-17-47-119588625-redacao-discursiva-parte-i-e1756905467.pdf"
+      },
+      {
+        "id": "d8857374bb89418e89e436d83892f9c2",
+        "titulo": "Redacao Discursiva Parte Ii",
+        "arquivo": "2025-09-04-10-27-42-119589390-redacao-discursiva-parte-ii-e1756992462.pdf"
+      },
+      {
+        "id": "4a3b66d88c334d84b03f0b93643c0d15",
+        "titulo": "Redacao Discursiva Parte Iii",
+        "arquivo": "2025-09-03-10-39-01-119590155-redacao-discursiva-parte-iii-e1756906741.pdf"
+      }
+    ]
+  },
+  {
+    "materia": "INGLÊS",
+    "aulas": [
+      {
+        "id": "04855d4bcb17437aad6cb44f351e951f",
+        "titulo": "Gramatica Parte I",
+        "arquivo": "2024-03-04-13-20-13-68267835-gramatica-parte-i-e1709569212.pdf"
+      },
+      {
+        "id": "e6f684e6b0a14823afc4fcf0c296a7cb",
+        "titulo": "Gramatica Parte Ii E Texto",
+        "arquivo": "2024-09-11-10-44-09-68268600-gramatica-parte-ii-e-texto-e1726062249.pdf"
+      }
+    ]
+  },
+  {
+    "materia": "MATEMÁTICA",
+    "aulas": [
+      {
+        "id": "a03d532f2e144fc48b58a473ed64154c",
+        "titulo": "Diagramas Logicos",
+        "arquivo": "2025-03-28-11-26-17-112149765-diagramas-logicos-e1743171977.pdf"
+      },
+      {
+        "id": "b5483e0eca9048c79b8c9289925da791",
+        "titulo": "Funcoes E Graficos Do 1 Grau",
+        "arquivo": "2025-11-13-09-48-41-112132170-funcoes-e-graficos-do-1-grau-e1763038120.pdf"
+      },
+      {
+        "id": "caf2461603fb4317aef48628f7807e82",
+        "titulo": "Funcoes E Graficos Do 2 Grau",
+        "arquivo": "2025-11-13-09-56-00-112132935-funcoes-e-graficos-do-2-grau-e1763038560.pdf"
+      },
+      {
+        "id": "a9c46f34932948cebfd3452af9009412",
+        "titulo": "Funcoes Exponencial E Logaritmica",
+        "arquivo": "2026-07-03-10-40-25-112141350-funcoes-exponencial-e-logaritmica-e1783086025.pdf"
+      },
+      {
+        "id": "3f3d17014cdb483fb5180bdbe71c9aa7",
+        "titulo": "Matrizes Determinantes E Sistemas Lineares",
+        "arquivo": "2026-07-24-10-46-40-112135995-matrizes-determinantes-e-sistemas-lineares-e1784900800.pdf"
+      },
+      {
+        "id": "3c867bfec78846d5996fff67d2470185",
+        "titulo": "Numeros Inteiros",
+        "arquivo": "2026-09-09-13-36-19-112129110-numeros-inteiros-e1788971779.pdf"
+      },
+      {
+        "id": "e594d94349974b3bab3e79abe548f164",
+        "titulo": "Numeros Racionais E Reais",
+        "arquivo": "2026-02-12-09-39-40-112129875-numeros-racionais-e-reais-e1770899980.pdf"
+      },
+      {
+        "id": "6d328f50b45944b8a54bc1ad0f69c24a",
+        "titulo": "Operador Condicional",
+        "arquivo": "2025-11-14-09-43-43-112147470-operador-condicional-e1763124223.pdf"
+      },
+      {
+        "id": "68ddd55cecce4901973bbe88658ca645",
+        "titulo": "Operadores Logicos Fundamentais",
+        "arquivo": "2026-01-22-16-19-54-112148235-operadores-logicos-fundamentais-e1769109593.pdf"
+      },
+      {
+        "id": "2cd755a149fe4a478d596e3254ec7a42",
+        "titulo": "Raciocinio Sequencial",
+        "arquivo": "2026-08-28-13-49-47-112150530-raciocinio-sequencial-e1787935786.pdf"
+      },
+      {
+        "id": "30ef2697ab304b95ad9d1a68460bf9fe",
+        "titulo": "Razao E Proporcao Regra De Tres E Porcentagem",
+        "arquivo": "2025-03-25-17-50-53-112131405-razao-e-proporcao-regra-de-tres-e-porcentagem-e1742935853.pdf"
+      }
+    ]
+  },
+  {
+    "materia": "MATEMÁTICA FINANCEIRA",
+    "aulas": [
+      {
+        "id": "e5ed50dd7be545b8ac450966696962db",
+        "titulo": "Juros Compostos",
+        "arquivo": "2025-07-18-16-41-10-116818560-juros-compostos-e1752867670.pdf"
+      },
+      {
+        "id": "bd83b036be734e26870718e7e1af9073",
+        "titulo": "Juros Simples",
+        "arquivo": "2025-07-22-11-00-42-116817795-juros-simples-e1753192841.pdf"
+      },
+      {
+        "id": "ec066cddf87e4bd49a8534d75055a834",
+        "titulo": "Sistemas De Amortizacoes",
+        "arquivo": "2025-09-02-11-45-44-116820855-sistemas-de-amortizacoes-e1756824344.pdf"
+      },
+      {
+        "id": "5956afe4eca4459f8709c50923a61cfa",
+        "titulo": "Taxas E Capitais Equivalentes",
+        "arquivo": "2025-08-07-09-55-29-116819325-taxas-e-capitais-equivalentes-e1754571329.pdf"
+      }
+    ]
+  },
+  {
+    "materia": "PORTUGUÊS",
+    "aulas": [
+      {
+        "id": "126d9abbb6314a06aeb5fb1b1b511c43",
+        "titulo": "Analise Sintatica Termos Da Oracao",
+        "arquivo": "2025-02-13-09-37-32-80333415-analise-sintatica-termos-da-oracao-e1739450252.pdf"
+      },
+      {
+        "id": "7fad0f95795b4f39b8f1d7bb6a9157f4",
+        "titulo": "Coesao E Coerencia Semantica Figuras E Vicios De Linguagem Reescrita",
+        "arquivo": "2026-03-09-11-39-37-110313765-coesao-e-coerencia-semantica-figuras-e-vicios-de-linguagem-reescrita-e1773067177.pdf"
+      },
+      {
+        "id": "f77c10e966c44b28937d8fdd9fb771d9",
+        "titulo": "Colocacao Pronominal Proclise Enclise E Mesoclise",
+        "arquivo": "2025-10-02-10-55-58-80335710-colocacao-pronominal-proclise-enclise-e-mesoclise-e1759413358.pdf"
+      },
+      {
+        "id": "85a87fe95d5f454a86e731f8360acf00",
+        "titulo": "Compreensao E Interpretacao De Textos",
+        "arquivo": "2025-12-12-09-33-54-110312235-compreensao-e-interpretacao-de-textos-e1765542833.pdf"
+      },
+      {
+        "id": "d019e0088552419ea50c99241a99a9e4",
+        "titulo": "Concordancia Nominal Verbal E Verbo Nominal",
+        "arquivo": "2025-10-02-14-28-03-80338005-concordancia-nominal-verbal-e-verbo-nominal-e1759426083.pdf"
+      },
+      {
+        "id": "c28a304d70d1414fbaebda11af3effff",
+        "titulo": "Funcoes Do Se E Que",
+        "arquivo": "2025-10-01-15-31-11-80336475-funcoes-do-se-e-que-e1759343471.pdf"
+      },
+      {
+        "id": "9635976c6ac64e488227f5fc7e8e7c6b",
+        "titulo": "Periodo Composto Por Coordenacao E Subordinacao",
+        "arquivo": "2025-10-02-11-02-54-80334180-periodo-composto-por-coordenacao-e-subordinacao-e1759413774.pdf"
+      },
+      {
+        "id": "7bd6c6d4916543eaa5cffd027b279f33",
+        "titulo": "Periodo Composto Por Coordenacao E Subordinacao E1759413774",
+        "arquivo": "2025-10-02-11-02-54-80334180-periodo-composto-por-coordenacao-e-subordinacao-e1759413774 (1).pdf"
+      },
+      {
+        "id": "5d94614c4d3b4423829ed8158e8e939b",
+        "titulo": "Pontuacao",
+        "arquivo": "2025-10-01-16-24-52-80334945-pontuacao-e1759346692.pdf"
+      },
+      {
+        "id": "8bee3c2692704594980a258170b552fe",
+        "titulo": "Pontuacao E1759346692",
+        "arquivo": "2025-10-01-16-24-52-80334945-pontuacao-e1759346692 (1).pdf"
+      },
+      {
+        "id": "cc800f0c608c4181b2a96d80b4dac1dd",
+        "titulo": "Regencia E Crase",
+        "arquivo": "2025-11-03-09-26-17-80337240-regencia-e-crase-e1762172777.pdf"
+      },
+      {
+        "id": "d3c09c3267d54c118cc1573e23f83691",
+        "titulo": "Tipologias E Generos Textuais",
+        "arquivo": "2026-01-26-14-27-40-110313000-tipologias-e-generos-textuais-e1769448460.pdf"
+      }
+    ]
+  },
+  {
+    "materia": "VENDAS E NEGOCIAÇÃO",
+    "aulas": [
+      {
+        "id": "eebef00d1cae4dbba97bcb3119e0fd6d",
+        "titulo": "F581558204db4c7ca45f6d9d24b9f29f",
+        "arquivo": "2026-08-27-11-00-03-f581558204db4c7ca45f6d9d24b9f29f.pdf"
+      },
+      {
+        "id": "753ad71202b94e778c2dc5d5397783c2",
+        "titulo": "Lei N 13 146 2015 Estatuto Da Pessoa Com Deficiencia",
+        "arquivo": "2026-06-23-13-49-55-122009085-lei-n-13-146-2015-estatuto-da-pessoa-com-deficiencia-e1782233395.pdf"
+      },
+      {
+        "id": "42f17b576c0044da938e3a810c13ada9",
+        "titulo": "Lei N 8 078 1990 Codigo De Defesa Do Consumidor",
+        "arquivo": "2024-01-04-13-06-42-92975805-lei-n-8-078-1990-codigo-de-defesa-do-consumidor-e1704384401.pdf"
+      },
+      {
+        "id": "3b0fa4df5913444ab8bca2f930de6f37",
+        "titulo": "Resolucao Cmn N 4 860 2020",
+        "arquivo": "2025-08-21-13-05-17-100665585-resolucao-cmn-n-4-860-2020-e1755792317.pdf"
+      },
+      {
+        "id": "56861fec335f4e2093569b4550b340b2",
+        "titulo": "Resolucao Cmn N 4 949 2021",
+        "arquivo": "2024-08-02-17-05-53-100669410-resolucao-cmn-n-4-949-2021-e1722629153.pdf"
+      }
+    ]
+  }
+]
